@@ -1,2 +1,2 @@
-# requisicao-simples
+# requisicao-simples-estudo
 requisicao simples em python
